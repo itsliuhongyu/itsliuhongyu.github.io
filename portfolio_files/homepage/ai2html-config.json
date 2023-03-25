@@ -1,0 +1,16 @@
+{
+    "fonts": [
+        {
+            "aifont": "MavenPro-SemiBold",
+            "family": "MavenPro",
+            "weight": "600",
+            "style": "SemiBold"
+        },
+        {
+            "aifont": "MavenPro-Black",
+            "family": "MavenPro",
+            "weight": "600",
+            "style": "Black"
+        }
+    ]
+}
