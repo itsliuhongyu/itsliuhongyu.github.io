@@ -1,0 +1,73 @@
+[
+    {
+      "title": "A 50-Year-Old Child Center is Set to Close. Where Will Families Go?",
+      "info": "Labor New York",
+      "brief": "Red Balloon, a Columbia University-affiliated child care center, is set to close next August, leaving its nine staff in limbo and upsetting the parents at the 18-student school.",
+      "img": "./docs/profolio/jour/09-26-2022-red-balloons.webp",
+      "src": "https://medium.com/labor-new-york/a-50-year-old-child-care-center-is-set-to-close-where-will-families-go-fe61153edc8f"
+    },
+    {
+      "title": "Korean fried chicken restaurant bb.q Chicken opens in North Quincy",
+      "info": "The Patriot Ledger",
+      "brief": "Buisness profile about a new restaurant in the South Shore area.",
+      "img": "https://www.patriotledger.com/gcdn/presto/2022/04/25/NPAL/fa5b7ce9-bab4-47f3-a7a8-b09ef20b746b-042522-gd-QUI_BBQ_04.JPG?crop=1599,900,x0,y374&width=1599&height=900&format=pjpg&auto=webp",
+      "src": "./docs/profolio/jour/Henry - Chicken.pdf"
+    },
+    {
+      "title": "'It's not right': Randolph tenants rally for better living conditions, ask town to step in",
+      "info": "The Patriot Ledger",
+      "brief": "40 residents from apartment complexes in Randolph who rallied in front of town hall Saturday to demand better living conditions.",
+      "img": "./docs/profolio/jour/05-14-2022-randolph.webp",
+      "src": "https://www.patriotledger.com/story/news/2022/05/17/its-not-right-randolph-tenants-rally-better-living-conditions/9760964002/"
+    },
+    {
+      "title": "Hundreds rally in Plymouth to prevent dumping radioactive water into ocean",
+      "info": "The Patriot Ledger",
+      "brief": "About 250 residents gathered at the Town Wharf in Plymouth Saturday to protest possible nuclear waste dumping by Holtec International into Cape Cod Bay off the Plymouth coast.",
+      "img": "https://www.patriotledger.com/gcdn/presto/2022/04/10/NPAL/b1668e29-5a69-43b2-b124-351f5a30c08b-QCY-04102022HongyuLiu02pilgrimprotest.jpg?width=1320&height=880&fit=crop&format=pjpg&auto=webp",
+      "src": "https://www.patriotledger.com/story/news/2022/04/10/hundreds-rally-plymouth-prevent-dumping-radioactive-water-into-cape-cod-bay/9509862002/"
+    },
+    {
+      "title": "Not just for summer camp: Archers form community around unique hobby",
+      "info": "The Patriot Ledger",
+      "brief": "A profile story of the BayState Archers Training Center and its owner Michael Allen.",
+      "img": "./docs/profolio/jour/04-09-2022-baystate-archer.webp",
+      "src": "https://www.patriotledger.com/story/news/2022/04/09/archers-form-community-around-unique-hobby/7227076001/"
+    },
+    {
+      "title": "'It's no crazier than skiing': Surfers catch a winter wave at Nantasket Beach in Hull",
+      "info": "The Patriot Ledger",
+      "brief": "A lifestyle story about winter surfers by the Nantasket Beach in Hull.",
+      "img": "./docs/profolio/jour/03-05-2022-surfers.webp",
+      "src": "https://www.patriotledger.com/story/news/2022/03/05/hardcore-sport-south-shore-surfers-unbothered-winter/6955135001/"
+    },
+    {
+        "title": "Walgreens, VillageMD to open their first Mass. medical clinic in Quincy",
+        "info": "The Patriot Ledger",
+        "brief": "Buisness reporting about new Walgreens clinic open in Quincy.",
+        "img": "https://www.patriotledger.com/gcdn/presto/2022/02/16/NPAL/5447859b-2323-49d9-bd93-864a21c85540-IMG_0588_.jpg?width=1320&height=880&fit=crop&format=pjpg&auto=webp",
+        "src": "./docs/profolio/jour/04-29-2022-walgreens.pdf"
+      },
+      {
+        "title": "Vaxmillions, Vaxx giveaways, and 'time to be creative'",
+        "info": "The Patriot Ledger",
+        "brief": "A story about the vaccination incentives across the nation. Published on the next day when Massachusetts government announced its incentive program.",
+        "img": "https://digboston.com/wp-content/uploads/2021/06/IMG_5579-scaled-e1623870448421.jpg",
+        "src": "https://digboston.com/vaxmillions-vaxx-giveaways-and-time-to-get-creative/"
+      },
+      {
+        "title": "From centuries of pollution to superfund potential",
+        "info": "DIG Boston",
+        "brief": "A river in Boston that powered industry buisnesses for centuries is one more step closer to clean up its PCB residues.",
+        "img": "./docs/profolio/jour/09-07-2021-neponset.webp",
+        "src": "https://digboston.com/from-centuries-of-pollution-to-superfund-potential/"
+      },
+      {
+        "title": "After losing wife to asthma, one man advocates for life-saving legislation",
+        "info": "The Somerville Times",
+        "brief": "An inspiring story about Peter DeMarco's journey passing 'Laura's Law' which improves the emergency responding system in Mass after his wife died from asthma.",
+        "img": "https://www.thesomervilletimes.com/wp-content/uploads/2021/01/demarco_1_web.jpg",
+        "src": "./docs/profolio/jour/AFTER LOSING HIS WIFE.pdf"
+      }
+  ]
+  

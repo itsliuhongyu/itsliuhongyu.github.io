@@ -1,0 +1,374 @@
+@font-face {
+    font-family: 'MavenPro';
+    src: url(../docs/font/MavenPro.ttf);
+}
+
+@font-face {
+    font-family: 'RobotoSlab';
+    src: url(../docs/font/RobotoSlab-VariableFont_wght.ttf);
+}
+
+a {
+    text-decoration: none;
+    color: #20377b;
+    font-weight: 500;
+  }
+  
+a:hover {
+    text-decoration: underline;
+    transition: text-decoration 0.2s ease;
+  }  
+
+body {
+    background-color: #f2f5fc;
+  }
+
+div {
+    display: block;
+}
+
+h1 {
+    padding-top: 150px;
+    padding-bottom: 30px;
+    font-size: 2rem;
+}
+
+    /* For mobile */
+    @media (max-width: 600px) {
+        h1 {
+            padding-top: 50px;
+            padding-bottom: 30px;
+            font-size: 2rem;
+        }
+    }
+
+h2 {
+    font-size: 1.8rem;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+
+
+.footer {
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+
+.footer p {
+    font-family: 'MavenPro';
+    font-size: 15px;
+  }
+
+
+.icons {
+    margin: auto; 
+    width: 655px; 
+    max-width: 92%; 
+    margin-bottom: 40px;
+}
+
+img.icon {
+    width: 25px;
+    margin-top: 0;
+    margin-bottom: 0.1%;
+    margin-right: 1.7%;
+    filter: brightness(0);
+}
+
+img.icon:hover {
+    filter: brightness(1);
+    transition: filter 0.3s ease;
+  }
+
+.introduction {
+    font-family: 'RobotoSlab';
+    font-weight: 300;
+    line-height: 200%;
+    text-align: left;
+    margin: auto;
+    width: 80%;
+    max-width: 650px;
+}
+
+
+
+
+
+
+
+
+.title {
+    font-family: 'RobotoSlab';
+    font-weight: 700;
+    text-align: center;
+}
+
+
+
+
+
+
+/* Work Sample Grids*/
+.work-sample {
+    width: 1300px;
+    max-width: 90%;
+    margin: flex;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-between;
+  }
+
+  
+  .piece {
+    display: flex;
+    flex-flow:wrap;
+    flex-wrap:wrap;
+    flex-basis: 25%;
+/*    margin-bottom:1em; */
+    width: 29%
+  }
+  
+
+
+     /* For tablets */
+     @media (max-width: 960px) {
+        .piece {
+        display: flex;
+        flex-flow:wrap;
+        flex-wrap:wrap;
+        flex-basis: 48%;
+        width: 45%;
+        margin: 5px;
+        }
+      }
+    
+    /* For mobile */
+      @media (max-width: 600px) {
+    
+        .work-sample {
+          margin-left: auto;
+          margin-right: auto;
+          display: flex;
+          flex-direction: column;
+          flex-wrap: wrap;
+          width: 80%
+        }
+    
+        .piece {
+          width: 100%;
+          padding-bottom: 40px;
+        }
+      }
+
+
+
+    /* CSS File for Cards */
+  
+  .blog-card {
+    display: block;
+    position: relative;
+    top: 1vw;
+    width: 400px;
+    margin: auto;
+    overflow: hidden;
+  }
+
+  .blog-card img {
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+    filter: brightness(1);
+    transition: all 0.3s ease;
+  }
+
+  .blog-card img:hover {
+    filter: brightness(1.2);
+    width: 405px;
+    height: 200px;
+    transition: all 0.3s ease;
+  }
+
+  .blog-card video {
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+    filter: brightness(1);
+    transition: all 0.3s ease;
+  }
+
+  .blog-card video:hover {
+    filter: brightness(1.2);
+    width: 405px;
+    transition: all 0.3s ease;
+  }
+  
+
+
+/* To make the card responsive when viewed on phone*/
+@media (max-width: 700px) {
+    .blog-card {
+      width: 350px;
+    }
+  }
+    
+  .blog-card h3 {
+    color: rgba(0, 0, 0, 0.85);
+    letter-spacing: 0.0225em;
+    width: auto;
+    margin: 0;
+    font-family: 'RobotoSlab', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 500;
+    line-height: 1.25
+  }
+
+  .blog-card h3:hover {
+    color:#20377b;
+    transition: all 0.3s ease;
+  }
+  
+  p.info {
+    color: #555;
+    line-height: 1.25;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-family: 'MavenPro', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 100;
+  }
+
+  p.brief {
+    color: black;
+    line-height: 1.25;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-family: 'MavenPro', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 300;
+  }
+  
+  .blog-card a {
+    color: #25408F;
+    text-decoration: none;
+    transition: all 350ms linear;
+  }
+  
+/* For photography section*/
+
+.photography {
+    max-width: 95%;
+    margin: flex;
+    margin-left: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    position: relative;
+}
+
+.photo-piece {
+    background-color: #f2f5fc;
+    display: flex;
+    flex-flow:wrap;
+    flex-wrap:wrap;
+    flex-basis: 95%;
+    margin-bottom:1em;
+    margin-top: 200px;
+    position: sticky;
+    top: 50px;
+    z-index: 1;
+    height: 100vh;
+  }
+
+
+  .photo-piece:not(:first-child) {
+    margin-top: 800px;
+}
+
+.photogallery {
+    width:70%;
+    margin-left: auto; 
+    position: sticky;
+    top: 1.5rem;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+}
+
+.photogallery a:hover {
+    text-decoration: none;
+}
+
+.photoviewport {
+
+    width:18%;
+    margin-right: 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.photoviewport a {
+    color: black;
+}
+
+.photoviewport h3 {
+    color: rgba(0, 0, 0, 0.85);
+    letter-spacing: 0.0225em;
+    width: auto;
+    margin-top: 10px;
+    font-family: 'RobotoSlab', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+  }
+
+.photoviewport h3:hover {
+    color:#20377b;
+    transition: all 0.3s ease;
+  }
+
+.photogallery img {
+    width: 100%; 
+    max-height: 90vh;
+    height: auto;
+    display: block;
+}
+
+
+    /* For mobile */
+@media (max-width: 600px) {
+    
+        .photography {
+            max-width: 95%;
+            margin: flex;
+            margin-left: auto;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content:space-between;
+            position: relative;
+        }
+
+        .photogallery {
+            width:90%;
+            margin: 0 auto; 
+            margin-bottom: 20px;
+        }
+
+        .photo-piece {
+            background-color: #f2f5fc;
+            height: 100vh;
+          }
+
+          .photoviewport {
+            width:100%;
+            margin-right: 0.5rem;
+            display: flex;
+        }
+
+    }
