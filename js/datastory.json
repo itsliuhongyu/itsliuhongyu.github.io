@@ -1,8 +1,29 @@
 ﻿[
   {
+    "title": "How much money do you make compared to the rest of SC? For Tax Day, we mapped IRS returns",
+    "info": "Post and Courier <br> Data Analysis & Visualization | Interactive | Adobe Illustrator",
+    "brief": "An interactive piece on quick takeaways from Tax Return data.",
+    "img": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/06/d06ee5ee-fb32-11ee-87d3-fba1a4e1a6a3/661d3709cc0be.preview.jpg?crop=1668%2C876%2C0%2C183&resize=1200%2C630&order=crop%2Cresize",
+    "src": "https://www.postandcourier.com/news/special_reports/interactive/tax-day-irs-income-tax-data-viz/article_d06ee5ee-fb32-11ee-87d3-fba1a4e1a6a3.html"
+  },
+  {
+    "title": "The Lowcountry is getting lower: Here's how much the SC Coast is sinking",
+    "info": "Post and Courier <br> Data Analysis & Visualization | Interactive | Adobe Illustrator",
+    "brief": "A scrollytelling piece about a recent study that identified Charleston as one of the fastest-sinking cities in the US.",
+    "img": "https://www.postandcourier.com/app/news_project/20240228_sinkingland/big_map/map-vid-large.mp4",
+    "src": "https://www.postandcourier.com/environment/maps-south-carolina-coast-sinking/article_eafc9c86-d25f-11ee-b30f-4f0cb570fd9e.html"
+  },
+  {
+    "title": "'Chopped up': Sea turtle death toll rises as dredge restrictions unravel",
+    "info": "Post and Courier <br> Data Analysis & Visualization | Python | Adobe Illustrator",
+    "brief": "Used the ODESS database to monitor the increasing number of endangered sea turtles killed by dredging.",
+    "img": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/2/47/24791956-b15b-11ee-a83f-ff97e65c31da/65a1757903e49.image.jpg?resize=1476%2C985",
+    "src": "https://www.postandcourier.com/environment/sea-turtle-death-dredging-charleston-harbor/article_6083079e-b0a3-11ee-8f37-97245b941478.html"
+  },
+  {
     "title": "Complication and Frustration Plague Recovery Programs Two Years After Hurricane Ida",
     "info": "Columbia Journalism School Master's Project <br> Data Analysis & Visualization | QGIS | Adobe Illustrator",
-    "brief": "Revisiting Hurricane Ida survivors in New Jersey two years after the flood",
+    "brief": "Revisiting Hurricane Ida survivors in New Jersey two years after the flood.",
     "img": "./docs/profolio/data-jour/08-12-2023-master.gif",
     "src": "https://itsliuhongyu.github.io/MasterProject/"
   },
