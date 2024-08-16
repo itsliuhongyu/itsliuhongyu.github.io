@@ -23,13 +23,28 @@ body {
     background-color: #f3f4f2;
   }
 
+.chatter p{
+  font-size: 17px;
+}
+
+.chatter, .introduction {
+  font-family: 'RobotoSlab';
+  font-weight: 300;
+  line-height: 200%;
+  text-align: left;
+  margin: auto;
+  padding-bottom: 5vh;
+  width: 80%;
+  max-width: 650px;
+}
+
 div {
     display: block;
 }
 
 h1 {
     padding-top: 150px;
-    padding-bottom: 30px;
+    padding-bottom: 2vh;
     font-size: 2rem;
     font-weight: 500;
 }
@@ -38,7 +53,6 @@ h1 {
     @media (max-width: 600px) {
         h1 {
             padding-top: 50px;
-            padding-bottom: 30px;
             font-size: 2rem;
         }
     }
@@ -84,15 +98,7 @@ img.icon:hover {
     transition: filter 0.3s ease;
   }
 
-.introduction {
-    font-family: 'RobotoSlab';
-    font-weight: 300;
-    line-height: 200%;
-    text-align: left;
-    margin: auto;
-    width: 80%;
-    max-width: 650px;
-}
+
 
 
 
