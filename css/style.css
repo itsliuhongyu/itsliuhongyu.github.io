@@ -33,7 +33,6 @@ body {
   line-height: 200%;
   text-align: left;
   margin: auto;
-  padding-bottom: 5vh;
   width: 80%;
   max-width: 650px;
 }
@@ -98,7 +97,9 @@ img.icon:hover {
     transition: filter 0.3s ease;
   }
 
-
+.introduction {
+  height: 100vh;
+}
 
 
 
