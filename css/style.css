@@ -195,6 +195,7 @@ img.icon:hover {
     object-fit: cover;
     filter: brightness(1);
     transition: all 0.3s ease;
+    box-shadow: 0 1.5px 5px 0 rgba(0, 0, 0, 0.2), 0 1.5px 5px 0 rgba(0, 0, 0, 0.2);
   }
 
   .blog-card img:hover {
