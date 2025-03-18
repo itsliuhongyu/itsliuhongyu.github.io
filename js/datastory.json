@@ -1,5 +1,12 @@
 ﻿[
   {
+    "title": "5 years after COVID shut down SC schools, a few districts have recovered. Here's how they did it.",
+    "info": "Post and Courier <br> Svelte | Interactive | Datawrapper",
+    "brief": "I used this article as a testbed for the first SvelteKit interactives ever created in our newsroom.",
+    "img": "./docs/profolio/data-jour/03-18-2025-covid5yr.png",
+    "src": "https://www.postandcourier.com/education-lab/covid-five-year-anniversary-academic-recovery/article_c5002f14-fb91-11ef-babc-9795a4ae4e92.html"
+  },
+  {
     "title": "SC has conserved 3 million acres of land. Can it conserve another 3 million acres by 2050?",
     "info": "Post and Courier <br> Adobe Illustrator | QGIS",
     "brief": "I designed graphics for this story explaining how privately conserved lands are gaining popularity in South Carolina.",
@@ -47,13 +54,6 @@
     "brief": "This interactive feature enhances an environmental story by inviting readers to engage with these audio assets that are often overlooked in traditional presentations.",
     "img": "./docs/profolio/data-jour/05-17-2024-rightwhale.png",
     "src": "https://www.postandcourier.com/environment/can-technology-save-north-atlantic-right-whales/article_109bd8d4-07fe-11ef-9d18-af302e12fa3c.html"
-  },
-  {
-    "title": "Why can't you find alligator teeth just as easily as shark teeth in the Lowcountry?",
-    "info": "Post and Courier <br> Interactive | JavaScript | QGIS",
-    "brief": "This interactive feature provides an alternative way to show change of time on stories managed by a CMS that does not support scrolly-telling.",
-    "img": "./docs/profolio/data-jour/07-18-2024-shoreline.png",
-    "src": "https://www.postandcourier.com/rising-waters/alligator-teeth-shark-teeth-fossils-sea-level/article_d293aa26-cc25-11ee-8665-b3f43926d6f6.html"
   },
   {
     "title": "How much money do you make compared to the rest of SC? For Tax Day, we mapped IRS returns",
