@@ -19,6 +19,10 @@ a:hover {
     transition: text-decoration 0.2s ease;
   }  
 
+.award-category{
+  color: #20377b;
+}
+
 body {
     background-color: #f3f4f2;
   }
@@ -59,6 +63,19 @@ h1 {
 h2 {
     font-size: 1.8rem;
     font-weight: 500;
+}
+
+h5 {
+  font-size: 1rem;
+}
+
+h6 {
+  font-size: 0.9rem;
+}
+
+h5, h6 {
+  margin-block-start: 0em;
+  margin-block-end: 0em;
 }
 
 p {
@@ -102,7 +119,9 @@ img.icon:hover {
 }
 
 
-
+span {
+  font-style: italic;
+}
 
 
 

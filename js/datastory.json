@@ -1,5 +1,12 @@
 ﻿[
   {
+    "title": "Follow the Money",
+    "info": "Post and Courier <br> Svelte | Interactive",
+    "brief": "This is a Svelte scroll-driven story that explores where federal funding goes in South Carolina.",
+    "img": "./docs/profolio/data-jour/04-06-2025-federalgrant.gif",
+    "src": "https://www.postandcourier.com/news/special_reports/interactive/federal-money-south-carolina-medicare-social-security/article_aecc2463-c4dc-4f27-be91-a2fe2e56c44e.html"
+  },
+  {
     "title": "5 years after COVID shut down SC schools, a few districts have recovered. Here's how they did it.",
     "info": "Post and Courier <br> Svelte | Interactive | Datawrapper",
     "brief": "I used this article as a testbed for the first SvelteKit interactives ever created in our newsroom.",
@@ -40,6 +47,13 @@
     "brief": "I designed this multimedia story documenting Charleston's nightlife in collaboration with reporters and a photographer. I built the project from scratch using fully customized CSS and HTML. The story features a scroll-and-play data visualization created with Adobe Animate, along with a custom CSS photo gallery that can be reused in future projects.",
     "img": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/5/59/559748be-1466-11ef-babe-bb5d2092fb77/6674278b1ff0e.preview.jpg",
     "src": "https://www.postandcourier.com/news/special_reports/interactive/king-street-nights/article_559748be-1466-11ef-babe-bb5d2092fb77.html"
+  },
+  {
+    "title": "The Pill Messiah",
+    "info": "Post and Courier <br> Data Analysis & Visualization | Interactive | Adobe Illustrator | D3.js",
+    "brief": "An award-winning investigative story for which I provided data analysis and created data visualizations.",
+    "img": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/d3/dd3b2a7e-9072-11ee-ae8b-3f1d23bb4ca5/656a1e26b617d.image.jpg",
+    "src": "https://www.postandcourier.com/news/special_reports/doug-smith-of-north-carolina--opioid-church-ekklasia-sozo-accused-of-fraud-in-telemedicine-lawsuit/article_0b0889dc-6c4d-11ee-b608-cbf70d011305.html"
   },
   {
     "title": "You might be surprised by how much Charleston recycles. But where does all that stuff go?",
