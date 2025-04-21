@@ -1,5 +1,12 @@
 ﻿[
   {
+    "title": "With a field trip ending in tragedy, just how safe are school buses in SC? We took a look.",
+    "info": "Post and Courier <br> Data Analysis & Visualization | QGIS",
+    "brief": "After a fatal school bus crash in the Upstate, my colleague and I analyzed crash data to assess how safe these specially designed vehicles really are — and to inform the public of the risks children face on their daily rides.",
+    "img": "./docs/profolio/data-jour/04-21-2025-schoolbus.png",
+    "src": "https://www.postandcourier.com/columbia/news/south-carolina-school-bus-crash-death-injury/article_a65e3d3f-a3d6-4b47-80ca-7a73ebb3a73b.html"
+  },
+  {
     "title": "Follow the Money",
     "info": "Post and Courier <br> Svelte | Interactive",
     "brief": "This is a Svelte scroll-driven story that explores where federal funding goes in South Carolina.",
